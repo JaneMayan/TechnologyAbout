@@ -1,7 +1,9 @@
-# TechnologyAbout
-# Technical support
-# If you have any questions, please contact me at: zmyjane@163.com . 
-# Normally, I will reply you within 30 days
-![image](https://github.com/JaneMayan/TechnologyAbout/blob/master/images/screen1.png)
-![image](https://github.com/JaneMayan/TechnologyAbout/blob/master/images/screen2.png)
-![image](https://github.com/JaneMayan/TechnologyAbout/blob/master/images/screen3.png)
+iOS program design & system consultation
+if you have any question, please contact me with no hesitate
+Email: zmyjane@163.com
+Add: Tianfu square Park, Peking,China
+Normally, I will reply you within 30 days
+Thank you!
+
+
+
